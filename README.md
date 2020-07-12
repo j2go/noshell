@@ -18,3 +18,5 @@
 像 Vscode 一样打造一个 Terminal，加油！
 
 域名都注册好了 `noshell.cool` yes~~~
+
+如果你也有差不多的想法，咱们 issue 区见
