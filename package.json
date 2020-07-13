@@ -1,0 +1,24 @@
+{
+  "name": "noshell",
+  "version": "1.0.0",
+  "description": "Not Only Shell",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/tiangaos/noshell",
+  "keywords": [
+    "Electron",
+    "shell",
+    "termial",
+    "cool"
+  ],
+  "author": "GitHub",
+  "license": "Apache License 2.0",
+  "devDependencies": {
+    "electron": "^9.1.0"
+  },
+  "dependencies": {
+    "xterm": "^4.8.1"
+  }
+}
